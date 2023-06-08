@@ -1,0 +1,2 @@
+#!/bin/bash
+To print the absloute path we use pwd
